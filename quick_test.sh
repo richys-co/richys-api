@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e  # Exit on any error
 
 echo "🚀 Quick Health Check - RICHYS API Demo"
 echo ""
