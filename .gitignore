@@ -1,0 +1,17 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+ENV/
+.env
+
+# System files
+.DS_Store
